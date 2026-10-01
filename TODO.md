@@ -1,0 +1,2 @@
+
+- [ ] MAke hosts.md reusable
